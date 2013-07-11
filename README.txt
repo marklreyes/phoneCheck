@@ -14,6 +14,6 @@ PREREQUISITE:
 		<p><input type="submit" name="Submit" value="Submit"></p>
 	</form>
 
-VALIDATIONS:	
+VALIDATIONS (errors currently print out in the JS console per lines 87 and 92):	
 Valid Phone numbers: 0044-1293-451996
 Invalid Phone numbers: 0044-1293
